@@ -1,5 +1,5 @@
 ## Hello, Je suis Axel Poteau 
-Je suis actuellement étudiant en seconde année de but en informatique a l'iut artois de Lens. 
+
 
 Je poste ici mes différents projets universitaire et personnel.
 

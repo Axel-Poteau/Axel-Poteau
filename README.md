@@ -4,11 +4,9 @@
 Je poste ici mes différents projets universitaire et personnel.
 
 ### Mes Projets : 
+- DnD Helper : Grimmoire Arcanique
 - CSkinGuess
-- Gestion compte
-- Gestion vente
 - Fractals
-- Test Emie
 
 
 ### Mes Compétences : 
